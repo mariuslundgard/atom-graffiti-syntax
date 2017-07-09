@@ -1,0 +1,19 @@
+{
+  "name": "atom-graffiti-syntax",
+  "theme": "Graffiti",
+  "version": "0.0.0",
+  "description": "A syntax theme for Atom for graffiti-writing coders.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "graffiti",
+    "wildstyle",
+    "oldschool",
+    "newschool"
+  ],
+  "repository": "https://github.com/mariuslundgard/atom-graffiti-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
