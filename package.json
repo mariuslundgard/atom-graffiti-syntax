@@ -1,6 +1,6 @@
 {
   "name": "atom-graffiti-syntax",
-  "theme": "Graffiti",
+  "theme": "syntax",
   "version": "0.1.0",
   "description": "A syntax theme for Atom for graffiti-writing coders.",
   "keywords": [
